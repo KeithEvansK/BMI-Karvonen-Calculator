@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fDdMsaaIEd0I8r+naDk3UJcebijyeXE/2VsKroQCVswCnFsyEjbsHBiVopymnYT1jqqVOE1i9cH0WxbC3wKpEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KEKei\\source\\repos\\BMI_Karvonen_Calculator\\BMI_Karvonen_Calculator\\BMI_Karvonen_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\BMI_Karvonen_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\BMI_Karvonen_Calculator.AssemblyInfoInputs.cache
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\BMI_Karvonen_Calculator.AssemblyInfo.cs
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\BMI_Karvonen_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\bin\Debug\net7.0\BMI_Karvonen_Calculator.exe
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\bin\Debug\net7.0\BMI_Karvonen_Calculator.deps.json
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\bin\Debug\net7.0\BMI_Karvonen_Calculator.runtimeconfig.json
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\bin\Debug\net7.0\BMI_Karvonen_Calculator.dll
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\bin\Debug\net7.0\BMI_Karvonen_Calculator.pdb
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\BMI_Karvonen_Calculator.dll
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\refint\BMI_Karvonen_Calculator.dll
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\BMI_Karvonen_Calculator.pdb
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\BMI_Karvonen_Calculator.genruntimeconfig.cache
+C:\Users\KEKei\source\repos\BMI_Karvonen_Calculator\BMI_Karvonen_Calculator\obj\Debug\net7.0\ref\BMI_Karvonen_Calculator.dll
